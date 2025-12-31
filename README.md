@@ -1,7 +1,7 @@
-# MY-PRODUCT-NAME
+# testing-new-script Connector
 
-[![CI Build](https://github.com/axonivy-market/REPO-NAME/actions/workflows/ci.yml/badge.svg)](https://github.com/axonivy-market/REPO-NAME/actions/workflows/ci.yml)
+[![CI Build](https://github.com/axonivy-market/testing-new-script/actions/workflows/ci.yml/badge.svg)](https://github.com/axonivy-market/testing-new-script/actions/workflows/ci.yml)
 
 "YOUR SHORT DESCRIPTION GOES HERE"
 
-Read our [documentation](MY-PRODUCT-NAME-product/README.md).
+Read our [documentation](testing-new-script-product/README.md).
